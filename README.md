@@ -1,24 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10055880&assignment_repo_type=AssignmentRepo)
-
-
 # Project BLOCKCHAIN
 
 ![BlockChain by DALL·E](dalleBlock1.png "Diseño de BlockChain generado por modelo DALL·E")
 
 *Generado por sistema CLIP DALL-E-*
-
-
-
-## Integrantes
-
-| Nombres y Apellidos                    | Participación    |
-|--------------------------------------- | ---------------- |
-| Murakami Miyahira, Mitsuo  Sebastián   | 100%             |
-| Romani Tafur, Mariajulia Romina        | 100%             |
-| Riveros Rodriguez, Yared               | 100%             |
-| Rodriguez Valverde, Camila Rosa        | 100%             |
-
-
 
 ## Introducción
 
